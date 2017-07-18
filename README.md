@@ -16,9 +16,9 @@ It is a forked from the great work by [ubuntudroid](https://github.com/ubuntudro
 
 # Setup
 
-Clone the repository to `~./local/share/gnome-shell/extensions/` into a folder named `todoist@pringlized.gmail.com` using the following command:
+Clone the repository to `~./local/share/gnome-shell/extensions/` into a folder named `gnodoist@pringlized.gmail.com` using the following command:
 
-    git clone git@github.com:pringlized/todoist-gnome-shell-extension.git todoist@pringlized.gmail.com
+    git clone https://github.com/pringlized/gnodoist-gnome-shell-extension.git gnodoist@pringlized.gmail.com
     
 The name of the directory is important because Gnome Shell won't recognize the extension otherwise.
 
@@ -26,7 +26,7 @@ If you are running Wayland, you'll have to logout and log back in.  Otherwise re
 
 #### Note:
 * Tested on Gnome Shell 3.24.2
-* It has not yet been submitted to the Gnome Shell extension directory.
+* It has not been submitted to the Gnome Shell extension directory yet.
 * Extension updates automatically every 5 minutes.
 
 #### Issues:
