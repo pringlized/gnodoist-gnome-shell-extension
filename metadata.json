@@ -2,8 +2,8 @@
     "name": "GnoDoist", 
     "description": "Task interaction from Todoist task manager", 
     "shell-version": ["3.24.2"], 
-    "uuid": "todoist@pringlized.gmail.com", 
-    "settings-schema": "org.gnome.shell.extensions.todoist",
-    "url": "https://github.com/pringlized/todoist-gnome-shell-extension",   
+    "uuid": "gnodoist@pringlized.gmail.com", 
+    "settings-schema": "org.gnome.shell.extensions.gnodoist",
+    "url": "https://github.com/pringlized/gnodoist-gnome-shell-extension",   
     "version": 1 
 }
